@@ -1,5 +1,6 @@
 # 1. Project Title / Headline
 **Multi-Restaurant Performance & Customer Analysis Dashboard | Power BI**
+
 A Power BI project created to analyze restaurant sales data and understand how the business is performing. The dashboard provides a clear view of total sales, total orders, average order value, product performance, and sales trends.
 
 # 2. Short Description
