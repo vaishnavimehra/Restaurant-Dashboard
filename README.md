@@ -4,20 +4,24 @@
 A Power BI project created to analyze restaurant sales data and understand how the business is performing. The dashboard provides a clear view of total sales, total orders, average order value, product performance, and sales trends.
 
 # 2. Short Description
+
 An interactive Power BI dashboard designed to analyze restaurant performance, customer ratings, pricing categories, cuisine distribution, restaurant status, and city-wise trends. This project transforms restaurant data into meaningful visual insights to support data-driven decision-making and identify top-performing restaurants.
 
 # 3. Tech Stack
-- **Power BI Desktop** – Dashboard development and data visualization
-- **Power Query** – Data cleaning and transformation
-- **DAX (Data Analysis Expressions)** – Calculated measures and KPIs
-- **Data Modeling** – Organizing data for analysis
-- **Data Visualization** – Charts, KPI cards, slicers, and interactive reports
+
+- 📊**Power BI Desktop** – Dashboard development and data visualization
+- 📂**Power Query** – Data cleaning and transformation
+- 🧠**DAX (Data Analysis Expressions)** – Calculated measures and KPIs
+- 📝**Data Modeling** – Organizing data for analysis
+- 🔍**Data Visualization** – Charts, KPI cards, slicers, and interactive reports
 
 # 4. Data Source
+
 - Restaurant dataset containing restaurant names, ratings, cuisines, pricing categories, city locations, restaurant status, alcohol service, and customer information.
 - The dataset was used to analyze restaurant distribution, customer ratings, pricing trends, and geographical performance.
 
 # 5. Features / Highlights
+
 - **Key Performance Indicators (KPIs):** Displays overall rating, total restaurants, consumer count, and total cuisine categories.
 - **Restaurant Status Analysis:** Visualizes the distribution of open and closed restaurants.
 - **Price Category Analysis:** Compares the number of restaurants across low, medium, and high price categories.
