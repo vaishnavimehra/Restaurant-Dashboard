@@ -26,4 +26,4 @@ An interactive Power BI dashboard designed to analyze restaurant performance, cu
 - **Data-Driven Insights:** Helps identify restaurant trends, customer preferences, and business performance patterns.
 
 # 6. Screenshots / Demos
-https://github.com/vaishnavixmehra-web/Restaurant-Dashboard/blob/main/Dashboard.png
+Example[dashboard Preview](https://github.com/vaishnavixmehra-web/Restaurant-Dashboard/blob/main/Dashboard.png)
