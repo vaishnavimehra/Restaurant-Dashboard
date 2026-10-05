@@ -36,4 +36,4 @@ Key Skills Demonstrated
 Power BI • Power Query • DAX • Data Cleaning • Data Transformation • Data Visualization • KPI Analysis • Business Intelligence • Sales Analysis • Dashboard Development • Business Analysis • Data-Driven Decision Making
 
 # 6. Screenshots / Demos
-Example: [dashboard Preview](https://github.com/vaishnavixmehra-web/Restaurant-Dashboard/blob/main/Dashboard.png).
+Example: [dashboard Preview](https://github.com/vaishnavixmehra-web/Restaurant-Dashboard/blob/main/Dashboard.png)
