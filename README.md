@@ -5,7 +5,7 @@ A Power BI project created to analyze restaurant sales data and understand how t
 
 # 2. Short Description
 
-An interactive Power BI dashboard designed to analyze restaurant performance, customer ratings, pricing categories, cuisine distribution, restaurant status, and city-wise trends. This project transforms restaurant data into meaningful visual insights to support data-driven decision-making and identify top-performing restaurants.
+The Restaurant Sales & Performance Analysis project is an interactive business intelligence dashboard developed using Power BI. The dashboard analyzes restaurant sales data to provide insights into total revenue, total orders, average order value, product performance, sales trends, and customer purchasing patterns. Interactive visuals, filters, slicers, and KPIs allow users to explore the data from different perspectives and quickly identify important trends. The project demonstrates how data visualization and business intelligence techniques can be used to convert raw transactional data into actionable insights for decision-making.
 
 # 3. Tech Stack
 
@@ -17,8 +17,7 @@ An interactive Power BI dashboard designed to analyze restaurant performance, cu
 
 # 4. Data Source
 
-- Restaurant dataset containing restaurant names, ratings, cuisines, pricing categories, city locations, restaurant status, alcohol service, and customer information.
-- The dataset was used to analyze restaurant distribution, customer ratings, pricing trends, and geographical performance.
+The project uses a restaurant sales dataset containing transactional information related to orders and menu items. The dataset includes relevant fields that can be used to analyze sales performance, such as order details, products, quantities, prices, dates, and other transactional attributes. Before building the dashboard, the data was prepared and transformed to ensure that it could be analyzed effectively. The cleaned data was then connected to Power BI and used to create relationships, calculations, KPIs, and visualizations that support the overall analysis.
 
 # 5. Features / Highlights
 
@@ -30,6 +29,10 @@ An interactive Power BI dashboard designed to analyze restaurant performance, cu
 - **City-Wise Analysis:** Compares restaurant and alcohol-service data across cities.
 - **Interactive Slicers:** Enables users to filter the dashboard by cuisine.
 - **Data-Driven Insights:** Helps identify restaurant trends, customer preferences, and business performance patterns.
+
+  Key Skills Demonstrated
+
+Power BI • Power Query • DAX • Data Cleaning • Data Transformation • Data Visualization • KPI Analysis • Business Intelligence • Sales Analysis • Dashboard Development • Business Analysis • Data-Driven Decision Making
 
 # 6. Screenshots / Demos
 Example[dashboard Preview](https://github.com/vaishnavixmehra-web/Restaurant-Dashboard/blob/main/Dashboard.png)
