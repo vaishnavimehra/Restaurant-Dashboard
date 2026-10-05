@@ -30,7 +30,8 @@ The project uses a restaurant sales dataset containing transactional information
 - **Interactive Slicers:** Enables users to filter the dashboard by cuisine.
 - **Data-Driven Insights:** Helps identify restaurant trends, customer preferences, and business performance patterns.
 
-  Key Skills Demonstrated
+
+Key Skills Demonstrated
 
 Power BI • Power Query • DAX • Data Cleaning • Data Transformation • Data Visualization • KPI Analysis • Business Intelligence • Sales Analysis • Dashboard Development • Business Analysis • Data-Driven Decision Making
 
